@@ -1,2 +1,2 @@
-# individual-resilia-3
+# Individual-3-Resilia
 Projeto individual módulo 3
