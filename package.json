@@ -1,0 +1,19 @@
+{
+  "name": "individual-resilia-3",
+  "version": "1.0.0",
+  "description": "Projeto individual módulo 3\r Conteúdo sobre os possíveis caminhos dentro do projeto sobre cabeleleiros",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuzBarbosa/individual-resilia-3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SuzBarbosa/individual-resilia-3/issues"
+  },
+  "homepage": "https://github.com/SuzBarbosa/individual-resilia-3#readme"
+}
