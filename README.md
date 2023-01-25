@@ -1,3 +1,3 @@
 # Individual-3-Resilia
 Projeto individual módulo 3
-Conteúdo sobre os possíveis caminhos dentro do projeto sobre cabeleleiros, com dois objetos criados
+Conteúdo sobre os possíveis caminhos dentro do projeto sobre cabeleleiros, com dois objetos criados. É possível ver o deploy nesse link 
