@@ -1,6 +1,4 @@
 {
     "serviços": [{"servico": "corte", "id": 1}, {"servico": "pintura", "id": 2},{"servico": "escova", "id": 3}, {"servico": "tratamento capilar", "id": 4}, {"servico": "barba", "id": 5}, {"servico": "manicure e/ou pedicure", "id": 6}],
-    "data":["segunda-feira", "terca-feira","quarta-feira", "quinta-feira", "sexta-feira", "sabado", "domingo"],
-    "horario":["8:00", "9:00", "10:00", "11:00", "12:00", "13:00","14:00","15:00","16:00", "17:00", "18:00"],
     "funcionarios":[{"nome": "Anderson", "area": "cabeleleiro", "id": 1}, {"nome": "Kaio", "area": "barbeiro", "id": 2}, {"nome": "Menezes", "area": "cabeleleiro", "id": 3}, {"nome": "Nicacio", "area": "recepcionista", "id": 4}, {"nome": "Suzana", "area": "manicure", "id": 5}]
 }
