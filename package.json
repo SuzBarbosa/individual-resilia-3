@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/SuzBarbosa/individual-resilia-3/issues"
   },
-  "homepage": "https://github.com/SuzBarbosa/individual-resilia-3#readme"
+  "homepage": "https://github.com/SuzBarbosa/individual-resilia-3#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
 }
